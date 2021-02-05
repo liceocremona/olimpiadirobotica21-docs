@@ -1,6 +1,7 @@
-![olimpiadi-robotica-arc-server-flusso-0402 (1).png](:/520c13bf16f746e299471b67d79b35d0)
+![olimpiadi-robotica-arc-server-flusso-0402 (1).png](olimpiadi-robotica-arc-server-flusso-0402.png)
 
 ## Frontend:
+
  framework: https://svelte.dev/
 
 ## Server http:
